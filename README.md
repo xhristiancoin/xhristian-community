@@ -6,7 +6,7 @@ This repository serves as the gateway to the **XHRISTIAN Community Wiki**.
 
 The primary community documentation, including the project's narrative, lore, and guidelines, is hosted in a dedicated Wiki for a better reading experience.
 
-**➡️ [Visit the XHRISTIAN Community Wiki](https://github.com/xhristiancoin/community/wiki)**
+**➡️ [Visit the XHRISTIAN Community Wiki](https://github.com/xhristiancoin/xhristian-community/wiki)**
 
 ## 🛠️ About This Repository
 
