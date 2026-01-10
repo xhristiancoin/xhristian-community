@@ -1,33 +1,18 @@
-# XHRISTIAN Community Wiki
+# Community & Lore
 
-Welcome to the community documentation space for the $XHRISTIAN project.
+This repository serves as the gateway to the **XHRISTIAN Community Wiki**.
 
-This wiki provides narrative context, background information, and community-oriented documentation related to the project.
+## 📖 Access the Wiki
 
-## What This Project Is
+The primary community documentation, including the project's narrative, lore, and guidelines, is hosted in a dedicated Wiki for a better reading experience.
 
-$XHRISTIAN is a public, on-chain token accompanied by open documentation and an evolving community narrative.
+**➡️ [Visit the XHRISTIAN Community Wiki](https://github.com/xhristiancoin/community/wiki)**
 
-Ownership of the token represents participation in an open-ended cultural and symbolic project rather than access to a defined product or utility.
+## 🛠️ About This Repository
 
-## Pre-Launch Status
+This `community` repository exists to enable the Wiki feature. The Wiki is the main source of living documents, while the core, immutable protocol specifications are maintained in the [`protocol`](https://github.com/xhristiancoin/protocol) repository.
 
-The token has not yet been launched.
+The Wiki is designed to be intuitive for all participants. You can navigate its contents using the sidebar.
 
-This wiki currently exists to:
-- Document the project’s intent and context
-- Set expectations around participation
-- Provide a public record as the project develops
-
-Content will evolve as the project moves from pre-launch to live operation.
-
-## Participation
-
-Community participation is informal and voluntary.
-
-There are no guarantees, roadmaps, or promised outcomes.  
-All engagement is based on individual interest and interpretation.
-
-## About This Wiki
-
-This space is maintained in public and may change over time as the project evolves.
+---
+*For formal specifications and on-chain verification, please refer to the `protocol` repository.*
