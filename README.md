@@ -2,6 +2,8 @@
 
 This repository serves as the gateway to the **XHRISTIAN Community Wiki**.
 
+## 📈 $XHRISTIAN Coin Official Contract Address
+
 ## 📖 Access the Wiki
 
 The primary community documentation, including the project's narrative, commandments, and guidelines, is hosted in a dedicated Wiki for a better reading experience.
