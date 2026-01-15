@@ -1,3 +1,6 @@
+[![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
+
 # Welcome To Your New XHRISTIAN Community
 
 This repository serves as the gateway to the **XHRISTIAN Community Wiki**.
