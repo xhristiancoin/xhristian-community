@@ -1,17 +1,17 @@
 [![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
 
-# Welcome To Your New XHRISTIAN Community
+# Welcome To The Xhristian Crypto Cult Community
 
-This repository serves as the gateway to the **XHRISTIAN Community Wiki**.
+This repository serves as the gateway to the **[Xhristian Crypto Cult Community Wiki](https://github.com/xhristiancoin/xhristian-community/wiki)**.
 
-## 📈 $XHRISTIAN Coin Official Contract Address
+## 📈 $Xhristian Coin Official Contract Address
 
 ## 📖 Access the Wiki
 
 The primary community documentation, including the project's narrative, commandments, and guidelines, is hosted in a dedicated Wiki for a better reading experience.
 
-**➡️ [Visit the XHRISTIAN Community Wiki](https://github.com/xhristiancoin/xhristian-community/wiki)**
+**➡️ Visit the [Xhristian Crypto Cult Community Wiki](https://github.com/xhristiancoin/xhristian-community/wiki)**
 
 ## 🛠️ About This Repository
 
